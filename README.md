@@ -2,9 +2,13 @@
 <h1 align="center">Hi 👋, I'm Robert</h1>
 <h3 align="center">Managing Director & Lead Full Stack Developer at y-squared.com</h3>
 
+- 📊 My business site [https://y-squared.com/](https://y-squared.com/)
+
 - 📝 I regularly write articles on [https://y-squared.blog/](https://y-squared.blog/)
 
 - 📫 How to reach me **robert@y-squared.com**
+
+- 🤝 LinkedIn [https://www.linkedin.com/in/robert-kirby-300607a4/](https://www.linkedin.com/in/robert-kirby-300607a4/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
