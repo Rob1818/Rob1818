@@ -4,9 +4,9 @@
 
 - 📊 My business site [https://y-squared.com/](https://y-squared.com/)
 
-- 📝 I regularly write articles on [https://y-squared.blog/](https://y-squared.blog/)
+- 📫 How to reach me [https://y-squared.com/contact](https://y-squared.com/contact)
 
-- 📫 How to reach me **robert@y-squared.com**
+- 📝 I regularly write articles on [https://y-squared.blog/](https://y-squared.blog/)
 
 - 🤝 LinkedIn [https://www.linkedin.com/in/robert-kirby-300607a4/](https://www.linkedin.com/in/robert-kirby-300607a4/)
 
