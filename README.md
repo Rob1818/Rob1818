@@ -6,9 +6,11 @@
 
 - 📫 How to reach me [https://y-squared.com/contact](https://y-squared.com/contact)
 
-- 📝 I regularly write articles on [https://y-squared.blog/](https://y-squared.blog/)
-
 - 🤝 LinkedIn [https://www.linkedin.com/in/robertkirbyofficial/](https://www.linkedin.com/in/robertkirbyofficial/)
+
+- 📝 I regularly write articles on Y-Squared.Blog [https://y-squared.blog/](https://y-squared.blog/)
+
+- 📝 I also write on Medium  [https://medium.com/@Robert-Y-Squared](https://medium.com/@Robert-Y-Squared)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
