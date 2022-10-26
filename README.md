@@ -1,4 +1,4 @@
-<img src="https://y-squared.com/_next/image?url=/images/Y-Squared.jpg&w=1200&q=75" />
+<img src="https://media-exp1.licdn.com/dms/image/D5616AQEYUPvKR67dGw/profile-displaybackgroundimage-shrink_350_1400/0/1666770801230?e=1672272000&v=beta&t=AZVDOG3SjLheWV1SHmdbQuHfHegPFZd4-IobhY-HF9U" />
 <h1 align="center">Hi 👋, I'm Robert</h1>
 <h3 align="center">Managing Director & Lead Full Stack Developer at y-squared.com</h3>
 
